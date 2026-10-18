@@ -1,0 +1,74 @@
+[
+  {
+    "n": 1,
+    "authors": "Han Zhang*, Guo-Hua Yuan*, <strong>Chaohao Yuan</strong>*, Tingyang Xu, Tian Bian, Hong Cheng, Wenbing Huang, Deli Zhao, Yu Rong.",
+    "url": "https://arxiv.org/abs/2603.25240",
+    "title": "Lingshu-Cell: A generative cellular world model for transcriptome modeling toward virtual cells",
+    "venue": "DAMO Academy of Alibaba Group Technical Report; World Artificial Intelligence Conference \u00b7 Academic (WAICA) 2026",
+    "group": "science"
+  },
+  {
+    "n": 2,
+    "authors": "<strong>Chaohao Yuan</strong>*, Ruifeng Yuan*, Zhuoxu Huang*, Yu Rong, Hong Cheng, Hou Pong Chan, Chenghao Xiao.",
+    "url": "https://arxiv.org/abs/2609.01147",
+    "title": "On the Design Fundamentals of Pixel Text Representation Learning",
+    "venue": "Conference on Empirical Methods in Natural Language Processing (EMNLP) 2026",
+    "group": "reasoning"
+  },
+  {
+    "n": 3,
+    "authors": "<strong>Chaohao Yuan</strong>, Kangfei Zhao, Ercan Engin Kuruoglu, Liang Wang, Tingyang Xu, Wenbing Huang, Deli Zhao, Hong Cheng, Yu Rong.",
+    "url": "https://doi.org/10.1145/3834764",
+    "title": "A Survey of Graph Transformers: Architectures, Theories and Applications",
+    "venue": "ACM Computing Surveys, 2026",
+    "group": "graph"
+  },
+  {
+    "n": 4,
+    "authors": "Ruifeng Yuan*, <strong>Chaohao Yuan</strong>*, David Dai*, Yu Rong, Hong Cheng, Hou Pong Chan, Chenghao Xiao.",
+    "url": "https://aclanthology.org/2026.acl-long.2013/",
+    "title": "Understanding the Behaviors of Environment-aware Information Retrieval",
+    "venue": "Annual Meeting of the Association for Computational Linguistics (ACL) 2026",
+    "group": "reasoning"
+  },
+  {
+    "n": 5,
+    "authors": "<strong>Chaohao Yuan</strong>, Chenghao Xiao, Yu Rong, Hong Cheng, Long-Kai Huang.",
+    "url": "https://arxiv.org/abs/2605.00610",
+    "title": "Decouple before Integration: Test-time Synthesis of SFT and RLVR Task Vectors",
+    "venue": "Preprint, arXiv:2605.00610, 2026",
+    "group": "reasoning"
+  },
+  {
+    "n": 6,
+    "authors": "<strong>Chaohao Yuan</strong>, Zhenjie Song, Ercan Engin Kuruoglu, Kangfei Zhao, Yang Liu, Deli Zhao, Hong Cheng, Yu Rong.",
+    "url": "https://doi.org/10.1145/3773966.3777927",
+    "title": "ParaFormer: A Generalized PageRank Graph Transformer for Graph Representation Learning",
+    "venue": "ACM International Conference on Web Search and Data Mining (WSDM) 2026 Oral",
+    "group": "graph"
+  },
+  {
+    "n": 7,
+    "authors": "<strong>Chaohao Yuan</strong>, Tingyang Xu, Yu Rong.",
+    "url": "https://doi.org/10.1016/B978-0-44-332908-1.00014-3",
+    "title": "Chapter: Transformer and Drug Discovery",
+    "venue": "Elsevier Book: Deep Learning in Drug Design",
+    "group": "science"
+  },
+  {
+    "n": 8,
+    "authors": "<strong>Chaohao Yuan</strong>*, Maoji Wen*, Ercan Engin Kuruoglu, Yang Liu, Jia Li, Tingyang Xu, Deli Zhao, Hong Cheng, Yu Rong.",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/e372bfe389adbf742a759396f0170356-Abstract-Conference.html",
+    "title": "Non-stationary Equivariant Graph Neural Networks for Physical Dynamics Simulation",
+    "venue": "Conference on Neural Information Processing Systems (NeurIPS) 2025",
+    "group": "science"
+  },
+  {
+    "n": 9,
+    "authors": "<strong>Chaohao Yuan</strong>, Songyou Li, Geyan Ye, Yikun Zhang, Long-Kai Huang, Wenbing Huang, Wei Liu, Jianhua Yao, Yu Rong.",
+    "url": "https://doi.org/10.1145/3690624.3709199",
+    "title": "Annotation-guided Protein Design with Multi-Level Domain Alignment",
+    "venue": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2025",
+    "group": "science"
+  }
+]
